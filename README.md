@@ -1,4 +1,11 @@
-# React Small Shopping Cart
+# React The Complete Guide
+Learn React From Beginner to Advanced.
+
+[https://www.udemy.com/course/react-the-complete-guide](https://www.udemy.com/course/react-the-complete-guide)
+
+View Demo: [http://basir.github.io/small-shopping-cart](http://basir.github.io/small-shopping-cart)
+
+ ## React Small Shopping Cart
 
 What You Will Build
  - A small shopping cart
